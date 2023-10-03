@@ -1,0 +1,68 @@
+@import url("https://use.typekit.net/ots6len.css");
+
+body{
+font-family: "capitolina", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+article {
+  width: 900px;
+  border: 2px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+  
+ h1 {
+  font-family: Helvetica, sans-serif;
+  color: #496475;
+  font-size: 30pt;
+   text-align: center;
+}
+
+h3 {
+  font-family: Caslon, serif;
+  color: #363636;
+  font-weight: 900; 
+}
+
+h5{
+  font-family: Helvetica, sans-serif;
+  color:#363636;
+  font-weight: 900;
+  text-align: Center;
+  /*?????*/
+  font-variant: small-caps;
+}
+
+a{
+  text-decoration:none;
+  color: #497062;
+}
+
+a:hover {
+  background-color: #496475;
+  color: #ffffff;
+}
+
+
+
+
+/*????? still need to fully figure out
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  
+table {
+  
+border-collapse
+: 
+collapse
+;
+}
+
+table, th, td {
+  border: 1px solid green;
+}*/
